@@ -1,0 +1,10 @@
+C:\Users\P2831912\Desktop\OOP Solutions\EComm\ECommApp\bin\Debug\ECommApp.exe.config
+C:\Users\P2831912\Desktop\OOP Solutions\EComm\ECommApp\bin\Debug\ECommApp.exe
+C:\Users\P2831912\Desktop\OOP Solutions\EComm\ECommApp\bin\Debug\ECommApp.pdb
+C:\Users\P2831912\Desktop\OOP Solutions\EComm\ECommApp\obj\Debug\ECommApp.csprojAssemblyReference.cache
+C:\Users\P2831912\Desktop\OOP Solutions\EComm\ECommApp\obj\Debug\ECommApp.csproj.CoreCompileInputs.cache
+C:\Users\P2831912\Desktop\OOP Solutions\EComm\ECommApp\obj\Debug\ECommApp.exe
+C:\Users\P2831912\Desktop\OOP Solutions\EComm\ECommApp\obj\Debug\ECommApp.pdb
+C:\Users\P2831912\Desktop\OOP Solutions\EComm\ECommApp\bin\Debug\ECommBizLib.dll
+C:\Users\P2831912\Desktop\OOP Solutions\EComm\ECommApp\bin\Debug\ECommBizLib.pdb
+C:\Users\P2831912\Desktop\OOP Solutions\EComm\ECommApp\obj\Debug\ECommApp.csproj.CopyComplete

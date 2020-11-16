@@ -1,0 +1,6 @@
+C:\Users\P2831912\Desktop\OOP Solutions\EComm\ECommBizLib\bin\Debug\ECommBizLib.dll
+C:\Users\P2831912\Desktop\OOP Solutions\EComm\ECommBizLib\bin\Debug\ECommBizLib.pdb
+C:\Users\P2831912\Desktop\OOP Solutions\EComm\ECommBizLib\obj\Debug\ECommBizLib.csprojAssemblyReference.cache
+C:\Users\P2831912\Desktop\OOP Solutions\EComm\ECommBizLib\obj\Debug\ECommBizLib.csproj.CoreCompileInputs.cache
+C:\Users\P2831912\Desktop\OOP Solutions\EComm\ECommBizLib\obj\Debug\ECommBizLib.dll
+C:\Users\P2831912\Desktop\OOP Solutions\EComm\ECommBizLib\obj\Debug\ECommBizLib.pdb
